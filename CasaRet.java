@@ -3,11 +3,11 @@ class CasaRet
 
 	public static void main(String[] args)
 	{
-		int lateral = 10; // comprimento lateral da cabana
-		int cquarto = 7;  // comprimento da lateral maior do quarto
-		int areaq; // area do quartos
-		int areas; // ara da sala
-		int areat; // area total
+		float lateral = 11; // comprimento lateral da cabana
+		float cquarto = 7;  // comprimento da lateral maior do quarto
+		float areaq; // area do quartos
+		float areas; // ara da sala
+		float areat; // area total
 
 		System.out.println("Programa para Calculo\nda area da casa");
 		areas = lateral*lateral;
