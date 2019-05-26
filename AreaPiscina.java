@@ -10,7 +10,7 @@ class AreaPiscina
 		// area da piscina 
 		double areap;
 		// valor de pi
-			areap = Math.PI * raio * raio;
+			areap = Math.PI * Math.pow(raio,2);
 			System.out.println("A area  " + areap);	
 
 
